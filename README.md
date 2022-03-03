@@ -3,3 +3,8 @@
 # Erik első commitja Csongorka2013 repojába. Legyen csodálatos napod :)
 # szevasztok ez az otthoni commit remelem teccik:
 # szevasz
+<html>
+<head>
+<meta charset="utf-8">
+<title>Weblapxd</title>
+
