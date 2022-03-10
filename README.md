@@ -5,5 +5,9 @@
 # szevasz
 # halohalo
 # gg xd ez
- 
+<html>
+<head>
+<title>Amogus</title>
+
+</html> 
 
